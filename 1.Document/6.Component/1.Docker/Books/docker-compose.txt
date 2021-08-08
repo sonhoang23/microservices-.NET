@@ -1,0 +1,4 @@
+1. run a docker compose
+=> docker-compose -f docker-compose.yml -f docker-compose.override.yml up -d
+2. delete the container of docke-compose
+=> docker-compose -f docker-compose.yml -f docker-compose.override.yml down

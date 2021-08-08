@@ -1,0 +1,36 @@
+🏃🏼‍♀️ Lab document
+1. Tạo Dockerfile
+
+# Get base image
+FROM centos:7
+
+# Author
+MAINTAINER "Nguyen Quoc Bao"
+
+#Cai dat apache
+RUN yum update -y
+RUN yum install -y sudo
+RUN yum install -y epel-release
+RUN yum install -y http://rpms.famillecollet.com/enterpr...
+RUN yum clean all
+RUN yum -y install wget
+RUN yum -y install httpd
+RUN yum -y install --enablerepo=remi,remi-php71 php php-devel php-mbstring php-pdo php-gd php-xml php-mcrypt php-pgsql
+ 
+#Thiet lap thu muc lam viec 
+WORKDIR /var/www/html
+
+#copy code tu thu muc code vao image
+ADD ./code /var/www/html
+
+# start httpd
+CMD ["/usr/sbin/httpd", "-D", "FOREGROUND"]
+
+EXPOSE 80
+
+
+2. Build image
+docker build -t httpd_sample .
+
+3. Tạo và chạy container
+docker run -d -p 80:80 httpd_sample

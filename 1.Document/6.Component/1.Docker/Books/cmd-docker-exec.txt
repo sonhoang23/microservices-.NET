@@ -1,0 +1,2 @@
+xem kết quả của file trong một container
+=> docker exec <container-id> /bin/bash
