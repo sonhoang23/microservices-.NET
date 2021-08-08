@@ -1,0 +1,16 @@
+docker images [OPTIONS] [REPOSITORY[:TAG]]
+
+1. tìm theo tên và tag image 
+=> docker images [tên image[:tag]]
+2. full id của image
+=> docker images --no-trunc
+3. lấy image không có tag
+=> docker images --filter "dangling=true"
+4. Tìm image để cài đặt
+=> docker search [tên image]
+5. Xóa images
+=> docker rmi [image id]
+6. Pull image
+=> docker pull [tên image[:tag]]
+7. xóa hết images:
+=>  docker rmi $(docker images -q)

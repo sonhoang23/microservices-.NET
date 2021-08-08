@@ -1,0 +1,6 @@
+1. start container
+docker run -dp (d: detached mode: in the background) [host port]:[container port] [container name] [image name]
+2. dừng hết container:
+docker stop $(docker ps -a)
+3. xóa hết conatainer 
+docker rm $(docker ps -a)

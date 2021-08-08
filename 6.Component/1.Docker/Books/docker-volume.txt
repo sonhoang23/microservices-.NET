@@ -1,0 +1,10 @@
+1. tạo volume
+=> docker volume create [tên volume]
+2. Xem danh sách volume
+=> docker volume ls
+3. inspect volume
+=> docker volume inspect [tên volume]
+4. delete volume
+=> docker volume rm [tên volume]
+5. start a container with volume
+=> docker run -d

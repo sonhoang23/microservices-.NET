@@ -1,0 +1,325 @@
+Ctrl+X: Cắt mục được chọn.
+
+Ctrl+C (hoặc Ctrl+Ins): Sao chép mục được chọn.
+
+Ctrl+V (hoặc Shift+Ins): Dán mục được chọn.
+
+Ctrl+Z: Hoàn tác hành động.
+
+Alt+Tab: Chuyển đổi giữa các ứng dụng đang mở.
+
+Alt+F4: Đóng các mục, ứng dụng đang hoạt động.
+
+F2: Đổi tên các mục được chọn.
+
+F3: Tìm kiếm file hoặc thư mục trong File Explorer.
+
+F4: Hiển thị danh sách thanh địa chỉ trong File Explorer.
+F5: Làm mới cửa sổ đang hoạt động.
+
+F6: Chuyển đổi giữa các yếu tố màn hình trong cửa sổ hoặc trên desktop.
+
+F10: Kích hoạt thanh menu trong ứng dụng đang hoạt động.
+
+Alt+F8: Hiển thị mật khẩu trong màn hình đăng nhập.
+
+Alt+Esc: Chuyển đổi các mục theo thứ tự chúng được mở.
+
+Alt+ Chữ cái được gạch chân: Thực hiện lệnh cho chữ cái đó.
+
+Alt+Enter: Hiển thị cửa sổ Properties cho mục được chọn.
+
+Alt+Phím cách: Mở menu shortcut cho cửa sổ đang hoạt động.
+
+Alt+←: Trở lại
+
+Alt+→: Tiến về phía trước.
+
+Alt+Pg Up: Di chuyển lên một màn hình.
+
+Alt+Pg Down: Di chuyển xuống một màn hình.
+
+Ctrl+F4: Đóng tài liệu đang hoạt động (trong các ứng dụng toàn màn hình và cho phép bạn mở nhiều tài liệu cùng một lúc).
+
+Ctrl+A: Chọn tất cả các mục trong một tài liệu hoặ cửa sổ.
+
+Ctrl+D (hoặc Del): Xóa mục đã chọn và di chuyển nó vào Recycle Bin.
+
+Ctrl+R (hoặc F5): Làm mới cửa sổ hoạt động.
+
+Ctrl+Y: Làm lại một hành động.
+
+Ctrl+→: Di chuyển con trỏ đến đầu từ tiếp theo.
+Ctrl+←: Di chuyển con trỏ đến đầu của từ trước.
+
+Ctrl+↓: Di chuyển con trỏ đến đầu đoạn tiếp theo.
+
+Ctrl+↑: Di chuyển con trỏ đến đầu đoạn trước.
+
+Ctrl+Alt+Tab: Sử dụng các phím mũi tên để chuyển giữa tất cả các ứng dụng đang mở.
+
+Alt+Shift+↓/→/↑/←: Khi chọn một nhóm hoặc tile trong menu Start, nhấn tổ hợp phím này để di chuyển nó theo hướng được chỉ định.
+
+Ctrl+Shift+↓/→/↑/←: Khi chọn một tile trong menu Start Windows 10, nhấn tổ hợp phím này để di chuyển nó vào một tile khác để tạo thư mục.
+
+Cách thêm cột tile trên menu Start Windows
+Ctrl+↓/→/↑/←: Thay đổi kích thước menu Start khi nó mở.
+
+Ctrl+↓/→/↑/← (để di chuyển đến một mục)+Phím cách: Chọn nhiều mục riêng lẻ trong một cửa sổ hoặc trên desktop.
+
+Ctrl+Shift+↓/→/↑/←: Chọn một khối văn bản.
+
+Ctrl+Esc: Mở Start.
+
+Ctrl+Shift+Esc: Mở Task Manager.
+
+Ctrl+Shift: Chuyển bố cục bàn phím khi có nhiều bố cục bàn phím khác.
+
+Ctrl+Phím cách: Bật hoặc tắt trình chỉnh sửa phương thức nhập tiếng Trung (IME).
+
+Shift+F10 : Hiển thị menu phím tắt cho mục đã chọn.
+
+Shift+↓/→/↑/←: Chọn nhiều mục trong một cửa sổ hoặc trên desktop hoặc chọn văn bản trong tài liệu.
+
+Shift+Del: Xóa mục đã chọn mà không di chuyển nó vào Recycle Bin.
+→: Mở menu tiếp theo bên phải hoặc mở menu con.
+
+←: Mở menu tiếp theo bên trái hoặc đóng menu con.
+
+Esc: Dừng hoặc rời khỏi nhiệm vụ hiện tại.
+
+PrtScn: Chụp ảnh toàn bộ màn hình của bạn và sao chép nó vào bộ nhớ tạm.
+
+Lưu ý: Bạn có thể thay đổi phím tắt này để nó mở công cụ chỉnh sửa ảnh chụp màn hình. Chọn Start > Settings > Ease of Access > Keyboard và bật tùy chọn trong Print Screen shortcut.
+
+2. Phím tắt Windows 10 với phím Windows Phím Windows trên bàn phím
+Win: Mở hoặc đóng Start
+
+Win+A: Mở Action center và xem thông báo hiện tại trên bảng Panel mà không cần phải click chuột vào các biểu tượng nhỏ trên thanh Taskbar.
+Win+B: Đặt tiêu điểm trong vùng thông báo.
+
+Win+C: Mở Cortana ở chế độ lắng nghe người dùng ra lệnh. Ngoài ra phím tắt này cực kỳ hữu ích nếu bạn không muốn kích hoạt tính năng "Hey, Cortana".
+Win+Shift+C: Mở menu Charm.
+
+Win+D: Hiển thị và ẩn desktop.
+
+Win+Alt+D: Hiển thị và ẩn ngày và thời gian trên desktop.
+
+Win+Ctrl+D: Sử dụng nếu bạn muốn tạo và mở một Desktop ảo mới.
+
+Win+E: Mở File Explorer.
+
+Win+F: Mở Feedback Hub và chụp ảnh màn hình.
+
+Win+G: Mở Game bar để chụp màn hình, quay video chơi game.
+
+Win+Alt+G: Quay nhanh video toàn bộ hoạt động trên chương trình hiện tại hoặc cửa sổ game (game windows).
+
+Win+H: Bắt đầu đọc chính tả.
+
+Windows+I: Mở Settings trên Windows 10
+Win+K: Mở hành động Connect nhanh.
+
+Win+L: Khóa máy tính hoặc chuyển giữa các tài khoản.
+
+Win+M: Thu nhỏ tất cả các cửa sổ.
+
+Win+Shift+M: Khôi phục các cửa sổ thu nhỏ trên desktop.
+
+Win+O: Khóa định hướng thiết bị
+
+Win+P: Trong một cuộc họp, bạn muốn kết nối máy tính với một màn hình rời hoặc máy chiếu? Không có gì khó. Bạn chỉ cần nhấn Windows + P và tất cả các tùy chọn sẽ bung ra ở phía bên phải màn hình. Tại đây, bạn có thể nhân đôi màn hình (duplicate), mở rộng màn hình (extend)…
+Win+Q/S: Mở Cortana và hộp tìm kiếm của Windows. Nếu máy tính của bạn có kết nối microphone, bạn có thể nhấn bộ phím này và bắt đầu đọc câu hỏi. Nếu muốn sử dụng bạn cần kích hoạt Cortana trước
+Win+Ctrl+Q: Mở Quick Assist.
+
+Win+R: Mở hộp thoại Run.
+
+Win+Alt+R: Sử dụng phím tắt này để dừng quay video.
+
+Win+S: Mở thanh tìm kiếm
+Win+Shift+S: Chụp ảnh một phần màn hình
+
+Win+T: Chuyển qua các ứng dụng trên thanh tác vụ.
+
+Win+U: Mở Ease of Access Center.
+
+Win+V: Mở bộ nhớ tạm.
+
+Lưu ý: Để kích hoạt phím tắt này, chọn Start > Settings > System > Clipboard và bật chuyển đổi trong Clipboard history.
+
+Win+Shift+V: Chuyển qua các thông báo.
+Windows+Ctrl+V: Mở shoulder tap.
+
+Win+X: Mở menu Quick Link.
+
+Win+Y: Chuyển đổi đầu vào giữa Windows Mixed Reality và desktop.
+
+Win+Z: Hiển thị các lệnh có sẵn trong một ứng dụng ở chế độ toàn màn hình.
+
+Win+W: Mở hộp thoại Windows Ink Workspace để dùng bút cảm ứng, giúp nhanh chóng tạo ghi chú hoặc bản vẽ. Nếu có bút cảm ứng và thiết bị tablet chạy Windows 10, phím tắt này sẽ thật sự hữu ích cho công việc của bạn.
+Win+Pause: Hiển thị hộp thoại System Properties.
+
+Win+Ctrl+F: Tìm kiếm trên máy tính (nếu bạn đang ở trên một mạng).
+
+Win+Ctrl+1/2/3/...: Chuyển sang cửa sổ hoạt động cuối cùng của ứng dụng được ghim vào thanh tác vụ theo số bạn nhấn.
+
+Win+Alt+1/2/3/...: Mở desktop và mở danh sách Jump cho ứng dụng được ghim vào thanh tác vụ theo số bạn nhấn.
+
+Win+Ctrl+Shift+1/2/3/...: Mở desktop và mở một phiên bản mới của ứng dụng nằm ở vị trí đã cho trên thanh tác vụ với tư cách quản trị viên.
+
+Win+Tab: Khởi động tính năng Task View.
+Win+Home: Thu nhỏ tất cả cửa sổ trừ cửa sổ đang hoạt động
+
+Win+Shift+↑: Kéo dài cửa sổ lên trên cùng và dưới cùng của màn hình.
+
+Win+Shift+↓: Khôi phục/thu nhỏ cửa sổ hoạt động theo chiều dọc, giữ nguyên chiều rộng.
+
+Win+Shift+←/→: Di chuyển một ứng dụng hoặc cửa sổ trong desktop từ màn hình này sang màn hình khác.
+
+Win+Phím cách: Chuyển ngôn ngữ nhập và bố trí bàn phím.
+
+Win+Ctrl+←/→: Nếu bạn đang mở nhiều Desktop ảo khác nhau để làm việc. Bạn có thể sử dụng phím tắt này để điều hướng đến các Desktop ảo khác nhau.
+
+Win+Ctrl+Phím cách: Thay đổi ngôn ngữ nhập được chọn trước đó.
+
+Win+Ctrl+Enter: Bật Narrator.
+
+Làm thế nào để máy tính đọc tài liệu cho bạn?
+Win++: Mở Magnifier.
+
+Win+/: Bắt đầu chuyển đổi lại IME.
+
+Win+Ctrl+F4: Đóng Desktop ảo hiện tại.
+
+Ctrl+Alt+Tab: Xem các ứng dụng đang mở trên Desktop.
+Win+→/←: Di chuyển cửa sổ hiện tại sang phải/trái, hữu ích khi muốn mở 2 cửa sổ ở 2 nửa màn hình.
+Win+↑/↓: Mở cửa sổ ở kích thước lớn nhất, thu nhỏ cửa sổ
+
+Win+1/2/3/…: Mở ứng dụng có số thứ tự tương ứng trên Taskbar với số bạn nhấn. Ví dụ với thanh taskbar dưới đây, nếu bạn nhấn Win+1 sẽ mở File Explorer, Win+2 sẽ mở Viber, Win+3 sẽ mở IDLE Python, Win+4 sẽ mở Camtasia, Win+5 sẽ mở Photoshop,...
+Win+PrtScn: Cuối cùng nhưng không kém phần quan trọng là phím Windows + PrtScn (PrintScreen). Tổ hợp phím này sẽ chụp ảnh bất kỳ thứ gì đang nằm trên màn hình của bạn và tự động lưu nó vào thư mục C:\Users\Ten_may_tinh\Pictures\Screenshots.
+
+3. Phím tắt Windows 10 trong Command Prompt
+Ctrl+A: Chọn tất cả.
+
+Ctrl+C: Sử dụng để sao chép văn bản hoặc xuất dữ liệu trong Command Prompt. Ngoài ra bạn có thể sử dụng phím tắt khác có chức năng tương tự là "Ctrl + Insert".
+
+Ctrl+V: Sử dụng để dán văn bản đã sao chép hoặc nhập dữ liệu trong Command Prompt. Ngoài ra bạn có thể sử dụng phím tắt khác có chức năng tương tự là "Shift + Insert".
+
+Ctrl+M: Đánh dấu chữ đã chọn, để chọn văn bản hoặc xuất dữ liệu bạn sử dụng Shift + phím mũi tên.
+
+Alt+phím chọn: Bắt đầu lựa chọn trong chế độ khối.
+
+↓/→/↑/←: Di chuyển con trỏ theo hướng được chỉ định.
+
+Pge Up: Di chuyển con trỏ lên một trang.
+
+Pg Dn: Di chuyển con trỏ xuống một trang.
+
+Ctrl+Home (Chế độ Mark): Di chuyển con trỏ đến đầu bộ đệm.
+
+Ctrl+End (Chế độ Mark): Di chuyển con trỏ đến cuối bộ đệm.
+
+Ctrl+↑: Di chuyển lên một dòng trong lịch sử đầu ra.
+
+Ctrl+↓: Di chuyển xuống một dòng trong lịch sử đầu ra.
+
+Ctrl+Home (Điều hướng lịch sự): Nếu dòng lệnh trống, di chuyển khung nhìn lên trên cùng của bộ đệm. Mặt khác, xóa tất cả các ký tự bên trái con trỏ trong dòng lệnh.
+
+Ctrl+End (Điều hướng lịch sử): Nếu dòng lệnh trống, di chuyển khung nhìn sang dòng lệnh. Mặt khác, xóa tất cả các ký tự bên phải con trỏ trong dòng lệnh.
+
+4. Phím tắt hộp thoại
+F4: Hiển thị các mục trong danh sách hoạt động.
+
+Ctrl+Tab: Di chuyển qua các tab về phía trước.
+
+Ctrl+Shift+Tab: Di chuyển các tab về phía sau.
+
+Ctrl+1/2/3/...: Di chuyển đến tab thứ n.
+
+Tab: Di chuyển theo các tùy chọn về phía trước.
+
+Shift+Tab: Di chuyển theo các tùy chọn trở lại trước.
+
+Alt+ chữ gạch chân: Thực hiện lệnh (hoặc chọn tùy chọn) được sử dụng với chữ cái đó.
+
+Phím cách: Chọn hoặc xóa chọn tùy chọn trong hộp check box.
+
+Backspace: Mở thư mục lên một cấp nếu thư mục được chọn trong hộp thoại Save As hoặc Open.
+
+↓/→/↑/←: Chọn một nút nếu tùy chọn đang hoạt động là một nhóm các nút tùy chọn.
+
+5. Phím tắt File Explorer
+Alt+D: Chọn thanh địa chỉ.
+
+Ctrl+E: Chọn hộp tìm kiếm.
+
+Ctrl+F: Chọn hộp tìm kiếm.
+
+Ctrl+N: Mở một cửa sổ mới.
+
+Ctrl+W: Đóng cửa sổ hoạt động.
+
+Ctrl+ Con lăn chuột: Thay đổi kích thước các biểu tượng file và thư mục.
+
+
+ 
+Ctrl+Shift+E: Hiển thị tất cả các thư mục trên thư mục đã chọn.
+
+Ctrl+Shift+N: Tạo một thư mục mới.
+
+Num Lock+*: Hiển thị tất cả các thư mục con trong thư mục đã chọn.
+
+Num Lock++: Hiển thị nội dung của thư mục đã chọn.
+
+Num Lock+-:Thu gọn thư mục đã chọn.
+
+Alt+P: Hiển thị bảng xem trước.
+
+Alt+Enter: Mở hộp thoại Properties cho mục đã chọn.
+
+Alt+→: Xem thư mục tiếp theo.
+
+Alt+↑: Xem thư mục chứa thư mục đã chọn.
+
+Alt+←: Xem thư mục trước.
+
+Backspace: Xem thư mục trước.
+
+→: Hiển thị lựa chọn hiện tại (nếu nó bị thu gọn) hoặc chọn thư mục con đầu tiên.
+
+←: Thu gọn lựa chọn hiện tại (nếu nó được mở rộng) hoặc chọn thư mục chứa thư mục đó.
+
+End: Hiển thị dưới cùng của cửa sổ hoạt động.
+
+Home: Hiển thị trên cùng của cửa sổ hoạt động.
+
+F11: Thu nhỏ hoặc phóng to cửa sổ hoạt động.
+
+6. Phím tắt trên máy tính để bàn ảo
+Win+Tab: Mở Task view.
+
+Win+Ctrl+D: Thêm một máy tính để bàn ảo.
+
+Win+Ctrl+→: Chuyển đổi giữa các máy tính để bàn ảo mà bạn đã tạo ở bên phải.
+
+Win+Ctrl+←: Chuyển đổi giữa các máy tính để bàn ảo mà bạn đã tạo ở bên trái.
+
+Win+Ctrl+F4: Đóng máy tính để bàn ảo bạn đang sử dụng.
+
+7. Phím tắt trên thanh tác vụ
+Shift+ Click vào nút thanh tác vụ: Mở một ứng dụng hoặc mở nhanh một phiên bản khác của ứng dụng.
+
+Ctrl+Shift+ Click vào nút thanh tác vụ: Mở một ứng dụng với tư cách quản trị viên.
+
+Shift+ Click chuột phải vào nút thanh tác vụ: Hiển thị menu cửa sổ cho ứng dụng.
+
+Shift+ Click chuột phải vào nút thanh tác vụ được nhóm: Hiển thị menu cửa sổ cho nhóm.
+
+Ctrl+ Click vào nút thanh tác vụ được nhóm: Chuyển qua các cửa sổ của nhóm.
+
+8. Phím tắt cài đặt
+Win+I: Mở ứng dụng Settings.
+
+Backspace: Quay trở lại trang chủ cài đặt.
+
+Gõ trên bất kỳ trang nào với hộp tìm kiếm: Tìm kiếm cài đặt
