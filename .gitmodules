@@ -1,0 +1,3 @@
+[submodule "2.Repos/2.Main/asp.net-microservices"]
+	path = 2.Repos/2.Main/asp.net-microservices
+	url = https://github.com/sonhoang23/asp.net-microservices.git
