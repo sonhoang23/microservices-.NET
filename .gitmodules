@@ -1,3 +1,6 @@
 [submodule "2.Repos/2.Main/asp.net-microservices"]
 	path = 2.Repos/2.Main/asp.net-microservices
 	url = https://github.com/sonhoang23/asp.net-microservices.git
+[submodule "2.Repos/2.Main/run-aspnetcore-microservices"]
+	path = 2.Repos/2.Main/run-aspnetcore-microservices
+	url = https://github.com/aspnetrun/run-aspnetcore-microservices.git
